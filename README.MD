@@ -30,21 +30,17 @@ I specialize in **AI, NLP, Voice Automation, and Full-Stack Development**, with 
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
+| 🔢 **Math-AI-Word-Problem-Solver** | Solves math word problems using NLP and AI techniques. | Python · Jupyter Notebook · NLP |
+| 🍲 **Food-Recipe-Synthesizer** | Generates recipes from ingredients using AI-based synthesis. | Python · Jupyter Notebook · NLP |
+| 🏗️ **Model-Training-and-Evaluation** | Framework for training ML models and evaluating performance. | Python · Jupyter Notebook · ML |
+| 📚 **LangChain-Autonomous-RAG** | Autonomous Retrieval-Augmented Generation system using LangChain. | Python · LangChain · LLMs · NLP |
+| 🎫 **AI-Ticket-Classifier** | Automatically classifies support tickets using AI. | Python · NLP · ML |
+| 💻 **yash-binance-bot** | Automation bot for Binance trading tasks. | Python · APIs |
 | 🔊 **VoxVision** | Voice-based AI assistant for visually impaired users with real-time feedback and NLP intelligence. | Python · Vosk · DistilBERT · Flask · Automation APIs |
-| 🤖 **AI-Job-Agent** | Multi-agent system automating job scraping, JD parsing, resume tailoring, and applications. | Python · LLMs · LangChain · FastAPI |
-| 💼 **AI-Job-Showcase** | AI internship showcase platform with RAG, analytics, and auto-evaluation modules. | Python · RAG · FastAPI · GCP |
-
----
-
-### 🌟 Popular Repositories
-
-| Repository | Description |
-|------------|-------------|
-| Math-AI-Word-Problem-Solver | Solve math word problems using AI & NLP |
-| Taxi-Management-System | Configuration and management scripts |
-| Weather-App | Weather application using APIs |
-| WeatherPred | Weather prediction project |
-| Nutrition-Calculator | Python-based nutrition calculator |
+| 🍎 **Nutrition-Calculator** | Python-based tool for calculating nutrition from food data. | Python |
+| 🌦️ **Weather-App** | Weather application using APIs to fetch real-time data. | HTML · JavaScript |
+| 🌡️ **WeatherPred** | Weather prediction project using historical data. | HTML |
+| 🚕 **Taxi-Management-Sysyem** | Configuration and management scripts for taxi operations. | Config · Python |
 
 ---
 
