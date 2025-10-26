@@ -55,15 +55,7 @@ I specialize in **AI, NLP, Voice Automation, and Full-Stack Development**, with 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkashte5&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-### 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashkashte5&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
