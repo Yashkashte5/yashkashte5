@@ -1,7 +1,7 @@
 <!-- Futuristic GitHub Profile README for Yash Kashte -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Yash+Kashte!;AI+Engineer+%7C+Full-Stack+Developer;Building+Voice+Powered+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Yash+Kashte!;AI+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
 ---
