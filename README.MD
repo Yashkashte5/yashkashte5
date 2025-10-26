@@ -1,20 +1,20 @@
 <!-- Futuristic GitHub Profile README for Yash Kashte -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Yash+Kashte!;AI+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Yash+Kashte!;AI+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Automation+Systems" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 🧠 About Me  
-🚀 **AI Engineer & Full-Stack Developer** passionate about building intelligent automation systems and accessible voice-powered technologies.  
-I blend **AI, NLP, and System Automation** to create seamless, hands-free user experiences.  
+🚀 **AI Engineer & Full-Stack Developer** passionate about building intelligent automation systems and voice-powered applications.  
+I specialize in **AI, NLP, Voice Automation, and Full-Stack Development**, with a focus on building practical, hands-free solutions.
 
-💡 My work focuses on:
-- Real-time Speech & NLP systems  
-- Multi-Agent AI architectures  
-- Automation using AI/ML pipelines  
-- Advanced Full-Stack & API development  
+💡 Areas of expertise:
+- Real-time Speech Recognition & NLP  
+- Multi-Agent AI Systems  
+- Automation & AI-Driven Workflows  
+- Full-Stack Development (React, Node.js, Flask, APIs)  
 
 ---
 
@@ -30,21 +30,33 @@ I blend **AI, NLP, and System Automation** to create seamless, hands-free user e
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🔊 **VoxVision** | Voice-based AI assistant for the visually impaired with real-time feedback, automation, and NLP intelligence. | Python · Vosk · DistilBERT · Flask · Automation APIs |
+| 🔊 **VoxVision** | Voice-based AI assistant for visually impaired users with real-time feedback and NLP intelligence. | Python · Vosk · DistilBERT · Flask · Automation APIs |
 | 🤖 **AI-Job-Agent** | Multi-agent system automating job scraping, JD parsing, resume tailoring, and applications. | Python · LLMs · LangChain · FastAPI |
-| 💼 **AI-Job-Showcase** | AI-powered internship showcase platform with RAG, analytics, and auto-evaluation modules. | Python · RAG · FastAPI · GCP |
+| 💼 **AI-Job-Showcase** | AI internship showcase platform with RAG, analytics, and auto-evaluation modules. | Python · RAG · FastAPI · GCP |
+
+---
+
+### 🌟 Popular Repositories
+
+| Repository | Description |
+|------------|-------------|
+| Math-AI-Word-Problem-Solver | Solve math word problems using AI & NLP |
+| Taxi-Management-System | Configuration and management scripts |
+| Weather-App | Weather application using APIs |
+| WeatherPred | Weather prediction project |
+| Nutrition-Calculator | Python-based nutrition calculator |
 
 ---
 
 ### 📊 GitHub Insights  
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashKashte&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashKashte&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashkashte5&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkashte5&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKashte&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkashte5&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -52,7 +64,7 @@ I blend **AI, NLP, and System Automation** to create seamless, hands-free user e
 ### 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashKashte&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yashkashte5&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
@@ -66,7 +78,7 @@ I blend **AI, NLP, and System Automation** to create seamless, hands-free user e
   <a href="mailto:yashkashte@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YashKashte">
+  <a href="https://github.com/yashkashte5">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
