@@ -71,7 +71,7 @@ I specialize in **AI, NLP, Voice Automation, and Full-Stack Development**, with 
 
 ---
 
-<h3 align="center">⚡ "Building the future of intelligent, voice-driven automation." ⚡</h3>
+<h3 align="center">⚡ "Building the future of intelligent automation." ⚡</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
