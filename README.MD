@@ -1,90 +1,61 @@
 # Yash Kashte
 
-### AI Engineer • Full-Stack Developer • MCP & AI Automation Builder
+### AI Engineer • Full‑Stack Developer • MCP & AI Automation Builder
 
 ---
 
-## Profile
+## About Me
 
-AI engineer focused on building deployable intelligent systems with strong emphasis on **MCP (Model Context Protocol) ecosystems, AI agent orchestration, automation workflows, and voice-driven applications**. My work prioritizes production-ready AI infrastructure rather than isolated ML experimentation.
+AI engineer focused on building **practical AI systems, MCP servers, agent orchestration platforms, and automation tools**. I work across backend AI infrastructure, voice automation, and full‑stack development to create deployable intelligent applications rather than isolated ML experiments.
 
-I actively design AI tools, MCP-compatible agent systems, automation pipelines, and backend platforms that integrate LLMs into real operational workflows.
-
----
-
-## Core Expertise
-
-### MCP & AI Agent Systems
-
-* MCP server/tool development
-* AI agent orchestration platforms
-* Context-aware automation workflows
-* Multi-agent tool ecosystems
-* LLM integration and operational pipelines
-
-### Artificial Intelligence
-
-* Retrieval-Augmented Generation (RAG)
-* NLP classification and automation
-* Voice AI / speech recognition systems
-* Applied LLM workflows
-
-### Software Engineering
-
-* Python backend engineering (FastAPI, Flask)
-* Full-stack development (React, Node.js)
-* API architecture and automation systems
-* Production AI deployment practices
-
-### Infrastructure & Tooling
-
-* Docker, Git, Linux environments
-* SQLite / MySQL databases
-* Cloud experimentation (GCP)
+Primary interest areas include AI agents, Model Context Protocol ecosystems, NLP automation, voice interfaces, and scalable AI workflows.
 
 ---
 
-## Highlight Projects
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,fastapi,flask,docker,git,linux,mysql,sqlite,gcp,vscode&perline=8" />
+</p>
+
+### Core Areas
+
+**AI / ML & MCP:** MCP Tooling • LLM Integrations • RAG Systems • NLP • Speech Recognition • AI Agents
+**Backend & APIs:** FastAPI • Flask • Node.js • REST APIs • Automation Pipelines
+**Frontend:** React • JavaScript • HTML/CSS
+**Infrastructure:** Docker • Git • Linux • Cloud (GCP) • Databases
+
+---
+
+## Featured Work
 
 ### MCP AI Tooling & Servers
 
-Development of MCP-compatible tools including YouTube automation tooling, analytics workflows, and AI agent integrations designed for extensible AI ecosystems.
+Development of MCP-compatible tools and automation workflows including AI agent integrations and YouTube automation tooling.
 
 ### AI Agent Orchestration Platform
 
-Platform for coordinating multiple AI agents, tools, and automation workflows with contextual reasoning.
+Platform for coordinating multiple AI agents, tools, and context workflows for automation use cases.
 
-### VoxVision — Accessibility AI Assistant
+### VoxVision — Voice Accessibility Assistant
 
-Voice-first assistant combining speech recognition, NLP, and automation APIs for accessibility-focused AI interaction.
+Voice-first AI assistant combining speech recognition, NLP, and automation APIs for accessibility-focused interaction.
 
 ### Autonomous RAG Systems
 
-Context-aware LLM retrieval pipelines with automated reasoning and workflow integration.
+Context-aware LLM retrieval pipelines with automated reasoning workflows.
 
-### AI Ticket Classification System
+### AI Ticket Classification
 
-NLP-based support ticket classification pipeline designed for automation workflows.
+NLP-driven automated support ticket classification pipeline.
 
-### Additional Engineering Work
+### Additional Projects
 
-* AI automation bots and experimental tools
-* ML experimentation frameworks
-* Voice/NLP proof-of-concepts
-* Backend automation utilities
+Automation bots • ML experimentation frameworks • AI utilities • Voice/NLP proof-of-concepts • Data analysis tools
 
 ---
 
-## Current Focus
-
-* MCP ecosystem development
-* AI agent infrastructure and orchestration
-* Voice automation platforms
-* Scalable AI business applications
-
----
-
-## GitHub Metrics
+## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashkashte5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -97,6 +68,15 @@ NLP-based support ticket classification pipeline designed for automation workflo
 
 ---
 
+## Current Focus
+
+* MCP ecosystem development
+* AI agent orchestration platforms
+* Voice AI automation systems
+* Applied AI product development
+
+---
+
 ## Connect
 
 GitHub: [https://github.com/yashkashte5](https://github.com/yashkashte5)
@@ -105,6 +85,6 @@ Email: [yashkashte@gmail.com](mailto:yashkashte@gmail.com)
 
 ---
 
-### Philosophy
+### Focus Statement
 
-Build AI systems that integrate, automate, and scale — not demos, but usable infrastructure.
+Building real AI infrastructure — automation‑first, deployable, and production‑ready.
