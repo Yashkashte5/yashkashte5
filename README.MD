@@ -1,78 +1,110 @@
-<!-- Futuristic GitHub Profile README for Yash Kashte -->
+# Yash Kashte
 
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Yash+Kashte!;AI+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Automation+Systems" alt="Typing SVG" /> </h1>
-
----
-
-### 🧠 About Me  
-🚀 **AI Engineer & Full-Stack Developer** passionate about building intelligent automation systems and voice-powered applications.  
-I specialize in **AI, NLP, Voice Automation, and Full-Stack Development**, with a focus on building practical, hands-free solutions.
-
-💡 Areas of expertise:
-- Real-time Speech Recognition & NLP  
-- Multi-Agent AI Systems  
-- Automation & AI-Driven Workflows  
-- Full-Stack Development (React, Node.js, Flask, APIs)  
+### AI Engineer • Full-Stack Developer • MCP & AI Automation Builder
 
 ---
 
-### 🛠️ Tech Stack
+## Profile
+
+AI engineer focused on building deployable intelligent systems with strong emphasis on **MCP (Model Context Protocol) ecosystems, AI agent orchestration, automation workflows, and voice-driven applications**. My work prioritizes production-ready AI infrastructure rather than isolated ML experimentation.
+
+I actively design AI tools, MCP-compatible agent systems, automation pipelines, and backend platforms that integrate LLMs into real operational workflows.
+
+---
+
+## Core Expertise
+
+### MCP & AI Agent Systems
+
+* MCP server/tool development
+* AI agent orchestration platforms
+* Context-aware automation workflows
+* Multi-agent tool ecosystems
+* LLM integration and operational pipelines
+
+### Artificial Intelligence
+
+* Retrieval-Augmented Generation (RAG)
+* NLP classification and automation
+* Voice AI / speech recognition systems
+* Applied LLM workflows
+
+### Software Engineering
+
+* Python backend engineering (FastAPI, Flask)
+* Full-stack development (React, Node.js)
+* API architecture and automation systems
+* Production AI deployment practices
+
+### Infrastructure & Tooling
+
+* Docker, Git, Linux environments
+* SQLite / MySQL databases
+* Cloud experimentation (GCP)
+
+---
+
+## Highlight Projects
+
+### MCP AI Tooling & Servers
+
+Development of MCP-compatible tools including YouTube automation tooling, analytics workflows, and AI agent integrations designed for extensible AI ecosystems.
+
+### AI Agent Orchestration Platform
+
+Platform for coordinating multiple AI agents, tools, and automation workflows with contextual reasoning.
+
+### VoxVision — Accessibility AI Assistant
+
+Voice-first assistant combining speech recognition, NLP, and automation APIs for accessibility-focused AI interaction.
+
+### Autonomous RAG Systems
+
+Context-aware LLM retrieval pipelines with automated reasoning and workflow integration.
+
+### AI Ticket Classification System
+
+NLP-based support ticket classification pipeline designed for automation workflows.
+
+### Additional Engineering Work
+
+* AI automation bots and experimental tools
+* ML experimentation frameworks
+* Voice/NLP proof-of-concepts
+* Backend automation utilities
+
+---
+
+## Current Focus
+
+* MCP ecosystem development
+* AI agent infrastructure and orchestration
+* Voice automation platforms
+* Scalable AI business applications
+
+---
+
+## GitHub Metrics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,html,css,flask,git,docker,gcp,vscode,sqlite,mysql,linux&theme=light" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🔢 **Math-AI-Word-Problem-Solver** | Solves math word problems using NLP and AI techniques. | Python · Jupyter Notebook · NLP |
-| 🍲 **Food-Recipe-Synthesizer** | Generates recipes from ingredients using AI-based synthesis. | Python · Jupyter Notebook · NLP |
-| 🏗️ **Model-Training-and-Evaluation** | Framework for training ML models and evaluating performance. | Python · Jupyter Notebook · ML |
-| 📚 **LangChain-Autonomous-RAG** | Autonomous Retrieval-Augmented Generation system using LangChain. | Python · LangChain · LLMs · NLP |
-| 🎫 **AI-Ticket-Classifier** | Automatically classifies support tickets using AI. | Python · NLP · ML |
-| 💻 **yash-binance-bot** | Automation bot for Binance trading tasks. | Python · APIs |
-| 🔊 **VoxVision** | Voice-based AI assistant for visually impaired users with real-time feedback and NLP intelligence. | Python · Vosk · DistilBERT · Flask · Automation APIs |
-| 🍎 **Nutrition-Calculator** | Python-based tool for calculating nutrition from food data. | Python |
-| 🌦️ **Weather-App** | Weather application using APIs to fetch real-time data. | HTML · JavaScript |
-| 🌡️ **WeatherPred** | Weather prediction project using historical data. | HTML |
-| 🚕 **Taxi-Management-Sysyem** | Configuration and management scripts for taxi operations. | Config · Python |
-
----
-
-### 📊 GitHub Insights  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashkashte5&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkashte5&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashkashte5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=yashkashte5&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkashte5&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
+## Connect
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yashkashte" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yashkashte@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yashkashte5">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+GitHub: [https://github.com/yashkashte5](https://github.com/yashkashte5)
+LinkedIn: [https://linkedin.com/in/yashkashte](https://linkedin.com/in/yashkashte)
+Email: [yashkashte@gmail.com](mailto:yashkashte@gmail.com)
 
 ---
 
-<h3 align="center">⚡ "Building the future of intelligent automation." ⚡</h3>
+### Philosophy
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+Build AI systems that integrate, automate, and scale — not demos, but usable infrastructure.
