@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yash Kashte</h1>
 <h3 align="center">AI Engineer • MCP Builder • Intelligent Automation Developer</h3>
 
-# 💫 About Me:
+## 🧠 About Me  
+🚀 **AI Engineer & Full-Stack Developer** passionate about building intelligent automation systems and voice-powered applications.  
+I specialize in **AI, NLP, Voice Automation, and Full-Stack Development**, with a focus on building practical, hands-free solutions.
 
-🔭 Currently building MCP servers, AI agent orchestration systems, and automation platforms
-👯 Open to collaborating on AI / MCP / Agentic AI projects
-🤝 Exploring cloud + scalable AI deployment workflows
-🌱 Currently learning advanced Agentic AI systems & production AI infrastructure
-💬 Ask me about AI agents, NLP, voice automation, MCP ecosystem, or full‑stack AI apps
+💡 Areas of expertise:
+- Real-time Speech Recognition & NLP  
+- Multi-Agent AI Systems  
+- Automation & AI-Driven Workflows  
+- Full-Stack Development (React, Node.js, Flask, APIs)  
 
 ---
 
